@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello there 👋, welcome to my personal page. It is still under construction (sort of built in hurry), so for now I'll just leave the homepage with my resume.
+Hello there 👋, welcome to my personal page. It is still under construction (sort of built in hurry), so for now I just leave the homepage with my resume.
 
 Education
 ======
 **2018.08-2022.05(Est.)** Nanyang Technological University, Singapore   Bachelor of Engineering\
 Full scholarship awarded by Ministry of Education
 Major in: Computer Science\
-Minor in: Mathematics CGPA: 4.89/5\
+Minor in: Mathematics\
+GPA: 4.89/5 (Expected Highest Distinction Honours)\
 Honor: Dean’s List of Academic Year 18/19 & 19/20; 
 
 Getting started
