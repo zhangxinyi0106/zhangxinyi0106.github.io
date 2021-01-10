@@ -13,7 +13,7 @@ Hello there 👋, welcome to my personal page. It is still under construction (s
 Education
 ======
 **2018.08-2022.05(Est.)** Nanyang Technological University, Singapore   Bachelor of Engineering\
-Full scholarship awarded by Ministry of Education
+Full scholarship awarded by Ministry of Education\
 Major in: Computer Science\
 Minor in: Mathematics\
 GPA: 4.89/5 (Expected Highest Distinction Honours)\
