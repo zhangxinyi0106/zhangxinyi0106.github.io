@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Resume"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,10 +12,11 @@ Hello there 👋, welcome to my personal page. It is still under construction (s
 
 Education
 ======
-**2018.08-2022.05(Est.)** Nanyang Technological University, Singapore  Bachelor of Engineering
-Major in: Computer Science
-Minor in: Mathematics CGPA: 4.89/5
-Honor: Dean’s List of Academic Year 18/19 & 19/20; Full scholarship awarded by Ministry of Education
+**2018.08-2022.05(Est.)** Nanyang Technological University, Singapore   Bachelor of Engineering\
+Full scholarship awarded by Ministry of Education
+Major in: Computer Science\
+Minor in: Mathematics CGPA: 4.89/5\
+Honor: Dean’s List of Academic Year 18/19 & 19/20; 
 
 Getting started
 ======
