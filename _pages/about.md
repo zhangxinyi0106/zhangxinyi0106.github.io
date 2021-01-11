@@ -25,7 +25,7 @@ Internship
 Role: Research Assistant Intern
 
 **2020.08-2021.01** Huawei International, Sinagpore\
-Role: Research Intern
+Role: Research Intern\
 Worked on Deep Learning Model Extraction Attack and Defense strategies for better
 intellectual property protection under Shield Lab, Huawei Singapore Research Center.
 
