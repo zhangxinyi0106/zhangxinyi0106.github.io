@@ -16,7 +16,7 @@ Education
 Bachelor of Engineering with full scholarship awarded by Ministry of Education\
 Major in: Computer Science\
 Minor in: Mathematics\
-GPA: 4.89/5 (Highest Distinction Honours)\
+GPA: 4.88/5 (Highest Distinction Honours)\
 Honor: Dean’s List of Academic Year 18/19 & 19/20
 
 Internship
